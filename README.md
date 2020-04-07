@@ -1,4 +1,4 @@
-# hospi_care
+# COVID 19 PATIENTS TRACKER UI CONCEPT
 
 A new Flutter project.
 
